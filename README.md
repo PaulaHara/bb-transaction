@@ -10,10 +10,11 @@ The API exposes three endpoints:
 
 ## How to Build
 
-1. Build: ```mvn clean install```
-2. Run: ```mvn tomcat:run```
-3. To generate the documentation run: ```mvn javadoc:javadoc```
-4. Use Postman to test it
+1. Clone the project
+2. Build: ```mvn clean install```
+3. Run: ```mvn tomcat7:run```
+4. To generate the documentation run: ```mvn javadoc:javadoc```
+5. Use Postman to test it
 
 ## Test
 
