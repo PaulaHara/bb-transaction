@@ -1,0 +1,13 @@
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/configuration/security/OAuth2SecurityConfiguration.java
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/service/OpenBankReader.java
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/controller/TransactionController.java
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/service/TransactionService.java
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/configuration/security/SecurityWebApplicationInitializer.java
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/configuration/security/AuthorizationServerConfiguration.java
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/data/Transaction.java
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/configuration/DispatcherServletInitializer.java
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/configuration/security/ResourceServerConfiguration.java
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/configuration/ProjectConfiguration.java
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/configuration/CORSFilter.java
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/service/impl/TransactionServiceImpl.java
+/Users/phara/Documents/AEQ/bb-assignment/src/main/java/com/backbase/assignment/data/OpenBank.java

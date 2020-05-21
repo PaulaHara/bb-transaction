@@ -1,0 +1,4 @@
+com/backbase/service/OpenBankReaderTest.class
+com/backbase/service/TransactionServiceTest.class
+com/backbase/controller/TransactionControllerTest.class
+com/backbase/controller/TransactionControllerIntegrationTest.class
