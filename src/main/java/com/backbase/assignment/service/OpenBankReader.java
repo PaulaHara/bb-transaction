@@ -3,8 +3,6 @@ package com.backbase.assignment.service;
 import com.backbase.assignment.data.OpenBank;
 import com.google.gson.Gson;
 import org.apache.log4j.Logger;
-import org.json.JSONException;
-import org.json.JSONObject;
 import org.springframework.stereotype.Service;
 
 import java.io.BufferedReader;

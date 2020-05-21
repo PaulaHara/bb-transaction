@@ -26,6 +26,17 @@
                     <source>1.8</source>
                 </configuration>
             </plugin>
+
+            <!-- Tomcat plugin -->
+            <plugin>
+                <groupId>org.apache.tomcat.maven</groupId>
+                <artifactId>tomcat7-maven-plugin</artifactId>
+                <version>2.2</version>
+                <configuration>
+                    <url>http://localhost:8080/manager/text</url>
+                    <server>TomcatServer</server>
+                </configuration>
+            </plugin>
         </plugins>
     </build>
 
@@ -127,11 +138,6 @@
         </dependency>
 
         <!-- Json and Gson -->
-        <dependency>
-            <groupId>com.vaadin.external.google</groupId>
-            <artifactId>android-json</artifactId>
-            <version>0.0.20131108.vaadin1</version>
-        </dependency>
         <dependency>
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
